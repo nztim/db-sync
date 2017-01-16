@@ -13,7 +13,7 @@
   ],
   "require": {
     "psr/log": "*",
-    "symfony/console": "^2.7",
+    "symfony/console": "^3.0",
     "mrjgreen/database": "^2.4",
     "symfony/debug": "^3.0",
     "ramsey/array_column": "^1.1"
